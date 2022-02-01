@@ -1,7 +1,11 @@
 {
     "BIDSVersion": "1.0.0 + bep006",
-    "License": "This dataset is made available under the Creative Commons Attribution 4.0 International Public License, whose full text can be found at https://www.creativecommons.org/licenses/by/4.0/legalcode",
-    "Name": "200 Object images presented in random order at 5Hz (run-01) or 20Hz (run-02).",
-    "Authors": ["Grootswagers, T.","Robinson, A.K.","Carlson, T.A."],
-    "ReferenceAndLinks":"Grootswagers, T., Robinson, A.K., Carlson, T.A., 2019. The representational dynamics of visual objects in rapid serial visual processing streams. NeuroImage, 188, 668-679. https://doi.org/10.1016/j.neuroimage.2018.12.046"
+    "License": "CC0",
+    "Name": "EEG recordings for 200 object images presented in RSVP sequences at 5Hz or 20Hz",
+    "Authors": [
+        "Grootswagers, T.",
+        "Robinson, A.K.",
+        "Carlson, T.A."
+    ],
+    "ReferenceAndLinks": "Grootswagers, T., Robinson, A.K., Carlson, T.A., 2019. The representational dynamics of visual objects in rapid serial visual processing streams. NeuroImage, 188, 668-679. https://doi.org/10.1016/j.neuroimage.2018.12.046"
 }
