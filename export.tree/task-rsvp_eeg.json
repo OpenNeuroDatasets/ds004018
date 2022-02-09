@@ -1,0 +1,11 @@
+{
+	"TaskName":"rsvp",
+	"SoftwareFilters":"n/a",
+	"PowerLineFrequency":50,
+	"SamplingFrequency":1000,
+	"EEGChannelCount":63,
+	"EOGChannelCount":0,
+	"ECGChannelCount":0,
+	"EMGChannelCount":0,
+	"EEGReference":"Cz"
+}
